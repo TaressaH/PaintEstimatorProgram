@@ -1,0 +1,9 @@
+c:\users\taressa\documents\visual studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\bin\Debug\HalpinTProgram2PaintEstimator.exe.config
+C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\bin\Debug\HalpinTProgram2PaintEstimator.exe
+C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\bin\Debug\HalpinTProgram2PaintEstimator.pdb
+C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.csprojResolveAssemblyReference.cache
+C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.PaintEstimatorForm.resources
+C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.Properties.Resources.resources
+C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.csproj.GenerateResource.Cache
+C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.exe
+C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.pdb
