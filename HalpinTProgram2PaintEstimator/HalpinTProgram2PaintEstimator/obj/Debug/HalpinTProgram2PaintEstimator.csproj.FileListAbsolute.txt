@@ -7,3 +7,6 @@ C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstim
 C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.csproj.GenerateResource.Cache
 C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.exe
 C:\Users\Taressa\Documents\Visual Studio 2015\Projects\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.pdb
+C:\GitHub\PaintEstimatorProgram\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\bin\Debug\HalpinTProgram2PaintEstimator.exe.config
+C:\GitHub\PaintEstimatorProgram\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.exe
+C:\GitHub\PaintEstimatorProgram\HalpinTProgram2PaintEstimator\HalpinTProgram2PaintEstimator\obj\Debug\HalpinTProgram2PaintEstimator.pdb

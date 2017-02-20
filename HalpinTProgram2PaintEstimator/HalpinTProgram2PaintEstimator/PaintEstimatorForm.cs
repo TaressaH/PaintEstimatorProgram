@@ -224,6 +224,33 @@ namespace HalpinTProgram2PaintEstimator
 
       private void calculateDataOneRoom()
         {
+            totalRoomLengthInteger = (lengthInteger * heightInteger * 2);
+            totalRoomWidthInteger = (widthInteger * heightInteger * 2);
+            roomToPaintAreaInteger = (int)((totalRoomLengthInteger + totalRoomWidthInteger) * .8);
+            numberOfGallonsToPaintInteger = roomToPaintAreaInteger / 115;
+
+            if ((roomToPaintAreaInteger / 115) != 0)
+            {
+                numberOfGallonsToPaintInteger++;
+            }
+            numberOfHoursOfLaborDecimal = roomToPaintAreaInteger / 115 * 3;
+            fractionOfHoursDecimal = numberOfHoursOfLaborDecimal -
+                                     Math.Truncate(numberOfHoursOfLaborDecimal);
+            if (fractionOfHoursDecimal > .75m)
+            {
+                numberOfHoursOfLaborDecimal = Math.Truncate(numberOfHoursOfLaborDecimal + 1); 
+            }
+            else
+            {
+                if (fractionOfHoursDecimal > .25m)
+                {
+                    numberOfHoursOfLaborDecimal = Math.Truncate(numberOfHoursOfLaborDecimal) + .5m; 
+                }
+                else
+                {
+                    numberOfHoursOfLaborDecimal = Math.Truncate(numberOfHoursOfLaborDecimal); 
+                }
+            } 
 
         }
 
